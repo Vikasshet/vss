@@ -1,0 +1,28 @@
+
+.word{
+    color: darkorange;
+    word-spacing: 300px;
+}
+
+.h1{
+    color:gold;
+}
+.hero{
+    display: flex;
+    column-gap: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.name{
+
+    display: flex;
+}
+   
+
+.breth{
+    color: aqua;
+}
+.card{
+    margin-top: 15px;
+    margin-left:30px;
+}
